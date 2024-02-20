@@ -1,0 +1,84 @@
+.nav{
+    background-color: #121212;
+    font-size: 12px;
+}
+
+.imgheight{
+    height:670px !important
+}
+
+.ipad{
+    height: 500px;
+    
+    background-image: url("./images/ipad.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 210px;
+    
+    
+}
+.airpods{
+    height: 500px;
+    
+    background-image: url("./images/airpods.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    
+}
+
+.card{
+    height: 500px;
+    
+    background-image: url("./images/card.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    
+}
+.tradein{
+    height: 500px;
+    
+    background-image: url("./images/trade\ in.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    
+}
+
+
+.watch{
+    height: 500px;
+    
+    background-image: url("./images/apple\ watch.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    
+}
+
+.macbook{
+    height: 500px;
+    
+    background-image: url("./images/MacBook-Pro-M3-.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+    
+}
+
+.imgcarousel{
+    height:900px;
+    
+}
+
+footer{
+    background-color: #efecec;
+    
+    font-size: 13px;
+}
